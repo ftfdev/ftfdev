@@ -23,7 +23,7 @@
     <img align="center" alt="Fernanda-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fernanda-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
-  <img align="right" alt="Fernanda-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/PqfFqHRM/ftfdev.png">
+  <img align="right" alt="Fernanda-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/JnDggtmh/ftf.png">
 </div>
 
 
